@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* body {
+  background-color: #2f4f4f;
+}
+
+* body header {
+  background: #008080;
+}
+
+* body header .container img {
+  width: 100px;
+  height: auto;
+  margin-left: 8%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+* body main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 100px;
+  color: white;
+}
+
+* body main .disco {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 350px;
+  width: 200px;
+  margin-bottom: 50px;
+  background-color: #008080;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+* body main .disco img {
+  width: 150px;
+  height: auto;
+  padding-top: 20px;
+}
+
+* body main .disco h3 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+* body main .disco span {
+  color: lightgray;
+}
+
