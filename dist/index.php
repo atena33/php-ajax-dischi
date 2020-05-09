@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="app.css">
     <title></title>
     <?php
-      include  "../src/database.php";
+      include  "database.php";
     ?>
   </head>
   <body>
